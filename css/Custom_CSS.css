@@ -1,0 +1,13 @@
+.bg-primary{
+    color:#4cc4e0;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.panel-7{
+    background-image: url(Images/footer-banner.png );
+}
